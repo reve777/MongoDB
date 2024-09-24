@@ -16,3 +16,10 @@ http://localhost:8080/portfolio/api/forex/create
 
 排程 每日 18:00呼叫 API  
 <img  width="100%" src="https://github.com/reve777/MongoDB/blob/main/Spring-MongoDB/src/main/resources/static/images/schedule.png" />
+
+
+
+MongoDB alts 
+獲取IP
+
+https://www.whoisip.me/
